@@ -37,9 +37,9 @@ const farouqDaif = {
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=farouqdaif1&show_icons=true" /><br><br><br>
 </a>
 <a align="center" href="https://github.com/farouqdaif1/github-top-languages">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farouqdaif1" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farouqdaif1" /><br><br><br>
 </a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farouqdaif1&" alt="luftedar" /></p><br><br><br>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farouqdaif1&" alt="luftedar" /></p>
 
 <h2 align="left"><b>Connect with me</b> 📫</h2>
 
