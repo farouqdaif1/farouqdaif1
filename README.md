@@ -2,7 +2,7 @@
 
 
 <h3>Welcome to my world!</h3>
-## ** A little more about me... ** 
+## A little more about me...
 
 ```javascript
 const farouqDaif = {
