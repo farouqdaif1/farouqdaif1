@@ -34,15 +34,15 @@ const farouqDaif = {
 
 ## **Github Stats**
 <a align="center" href="https://github.com/farouqdaif1/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=farouqdaif1&show_icons=true&theme=merko" /><br><br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=farouqdaif1&show_icons=true" /><br><br><br>
 </a>
 <a align="center" href="https://github.com/farouqdaif1/github-top-languages">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farouqdaif1&theme=merko" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farouqdaif1" />
 </a>
 <h2 align="left"><b>Connect with me</b> 📫</h2>
 
 <p align="left">
   <a target="_blank"
-    href="https://www.linkedin.com/in/radmila-stojceva-71a838212"><img
+    href="https://www.linkedin.com/in/farouqdaif/><img
     src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a>
 </p>
