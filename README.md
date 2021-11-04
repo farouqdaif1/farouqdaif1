@@ -2,7 +2,7 @@
 
 
 <h3>Welcome to my world!</h3>
-## ** A little more about me... ** 
+##  ** A little more about me... ** 
 
 ```javascript
 const farouqDaif = {
@@ -13,8 +13,7 @@ const farouqDaif = {
   askMeAbout: [chess, mathematics , movies, food],
   challenge: "I am honing my problem solving skills ",
   funFacts: ['I have 3+ years of studuing mathematics and I have 1+ years remote work experience with devs 
-  from all over the world', 
-  'my tiny chihuahua dog is ready to woof at the right offer']
+  from all over the world']
 }
 ```
 ## **Languages & Frameworks** 📶 
