@@ -2,7 +2,7 @@
 
 
 <h3>Welcome to my world!</h3>
-## **A little more about me...** 
+## ** A little more about me... ** 
 
 ```javascript
 const farouqDaif = {
@@ -40,9 +40,11 @@ const farouqDaif = {
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farouqdaif1" />
 </a>
 <h2 align="left"><b>Connect with me</b> 📫</h2>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farouqdaif1&" alt="luftedar" /></p>
 
 <p align="left">
   <a target="_blank"
-    href="https://www.linkedin.com/in/farouqdaif/><img
+    href="https://www.linkedin.com/in/farouqdaif/"><img
     src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a>
 </p>
+
