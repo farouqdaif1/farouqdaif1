@@ -11,7 +11,7 @@ const farouqDaif = {
   pronouns: ["he", "his"],
   code: [JavaScript, React, Redux, Ruby on Rails, HTML/CSS, Bootstrap, 
   Scss],
-  askMeAbout: [chess, mathematics , movies, food],
+  askMeAbout: [chess, mathematics , movies, food ],
   challenge: "I am honing my problem solving skills ",
   funFacts: ['I have 3+ years of studuing mathematics and I have 1+ years remote work experience with devs 
   from all over the world']
