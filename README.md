@@ -48,7 +48,7 @@ const farouqDaif = {
 </a>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farouqdaif1&" alt="luftedar" /></p>
 
-<h2 align="left"><b>Connect with me</b> 📫</h2>
+<h2 align="left"><b>📫 How to Reach me:</b></h2>
 
 <p align="left">
   <a target="_blank"
