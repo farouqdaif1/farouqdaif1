@@ -46,7 +46,6 @@ const farouqDaif = {
 <a align="center" href="https://github.com/farouqdaif1/github-top-languages">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farouqdaif1" /><br><br><br>
 </a>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=farouqdaif1&" alt="luftedar" /></p>
 
 <h2 align="left"><b>📫 How to Reach me:</b></h2>
 
