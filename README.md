@@ -1,10 +1,17 @@
-### Hi there , I'm Farouq Daif!👋
+ <p align="center">
+    <a href="https://github.com/farouqdaif1/farouqdaif1"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
+    <a href="https://github.com/farouqdaif1/farouqdaif1/graphs/contributors"><img src="https://img.shields.io/github/contributors/BEPb/BEPb?color=blue"></a>
+    <a href="https://github.com/farouqdaif1/farouqdaif1/stargazers"><img src="https://img.shields.io/github/stars/BEPb/BEPb.svg?logo=github"></a>
+    <a href="https://github.com/farouqdaif1/farouqdaif1/network/members"><img src="https://img.shields.io/github/forks/BEPb/BEPb.svg?color=blue&logo=github"></a>
+    <img src="https://visitor-badge.laobi.icu/badge?page_id=farouqdaif1.farouqdaif1" alt="visitors"/>   
+</p>
 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+👋,+I+am+Farouq+Daif;+Welcome+to+My+Profile!;Over+1+years+of+programming+experience;Always+learning+new+things;Now+learning+Blockchain+and+Web3.;)](https://git.io/typing-svg)
 
-<h3>Welcome to my world!</h3>
 <h4>A little more about me...</h4>
+  
 
-
+  
 ```javascript
 const farouqDaif = {
   lookingFor: "Front-end developer" || "Full-stack web developer",
