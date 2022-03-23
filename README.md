@@ -40,12 +40,11 @@ const farouqDaif = {
 ![Visual Studio](https://icongr.am/devicon/visualstudio-plain.svg?size=50&color=e98b8b)
 
 ## **Github Stats**
-<a align="center" href="https://github.com/farouqdaif1/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=farouqdaif1&show_icons=true" /><br><br><br>
-</a>
-<a align="center" href="https://github.com/farouqdaif1/github-top-languages">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farouqdaif1" /><br><br><br>
-</a>
+[![farouq's GitHub stats](https://github-readme-stats.vercel.app/api?username=farouqdaif1)](https://github.com/farouqdaif1)
+
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=farouqdaif1&layout=compact)
+
 
 <h2 align="left"><b>📫 How to Reach me:</b></h2>
 
