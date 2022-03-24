@@ -2,7 +2,7 @@
     <a href="https://github.com/farouqdaif1/farouqdaif1"><img src="https://img.shields.io/badge/status-updating-brightgreen.svg"></a>
     <a href="https://github.com/farouqdaif1/farouqdaif1/graphs/contributors"><img src="https://img.shields.io/github/contributors/farouqdaif1/farouqdaif1?color=blue"></a>
     <a href="https://github.com/farouqdaif1/farouqdaif1/stargazers"><img src="https://img.shields.io/github/stars/farouqdaif1/farouqdaif1.svg?logo=github"></a>
-    <a href="https://github.com/farouqdaif1/farouqdaif1/network/members"><img src="https://img.shields.io/github/forks/farouqdaif1/farouqdaif1.svg?color=blue&logo=github"></a>
+   
     <img src="https://visitor-badge.laobi.icu/badge?page_id=farouqdaif1.farouqdaif1" alt="visitors"/>   
 </p>
 
